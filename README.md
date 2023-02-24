@@ -1,13 +1,14 @@
 # CMPINF-0010-Big-Ideas-Lab
-main
-For Lab 6 and beyond, Big Ideas
+Program 1:
+The program takes two integer inputs.
+ -Money spent on pets
+ -Time spent on pets
+Program then outputs
+ -Number of roomba's could have been bought with the money
+ -Number of times room could have been cleaned
 
-main
+Program 2: 
+Takes input of string and int
+Outputs string hte numebr of times for int
 
-Jin Chul Cha, jcc147
-=======
-Has program that says a word some amount of times
-main
-
-Big Ideas class, for Lab work.
-main
+Contributers: blank-zzz (zal36), discover411 (jcc147), and amm635
