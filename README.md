@@ -9,6 +9,26 @@ Program then outputs
 
 Program 2: 
 Takes input of string and int
-Outputs string hte numebr of times for int
+Outputs string repeatedly until it reaches int number
 
-Contributers: blank-zzz (zal36), discover411 (jcc147), and amm635
+# How to Use
+1.Log into SCI JupyterHub and create a new terminal
+2.Type into terminal "git clone https://github.com/blank-zzz/CMPINF-0010-Big-Ideas-Lab.git"
+3.Open file and the contents will be avilable
+
+# How to Contribute
+To make a contribution to the repository follow these steps
+
+1.Make sure there are no obvious errors, (Program runs properly)
+2.Have comments explaining what the changes are for (Why change or add
+3.Go into terminal and write "git status" then "git add"
+4.Make a push request for the file "git push (File Name) #(Comment)"
+
+# Code of Conduct
+All contibuters and users to uphold, be approprite to each other.
+
+# License 
+Open source code
+
+
+# Contributers: blank-zzz (zal36), discover411 (jcc147), and amm635
